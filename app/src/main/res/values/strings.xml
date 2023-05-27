@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FirstHomeWorkOnThirdModul</string>
+    <string name="toastRestore" />
+    <string name="toastStart" />
+    <string name="toastStop" />
+    <string name="toastDestroy" />
+    <string name="toastPause" />
+    <string name="toastResume" />
+    <string name="toastSave" />
+</resources>
